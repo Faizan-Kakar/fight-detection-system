@@ -1,15 +1,15 @@
 #  1. 🔍 Fight Detection System
 An AI-powered surveillance system that detects and alerts incidents of physical violence in real-time using computer vision and deep learning.
 
-## 2. 📑 Table of Contents
-- [Overview](#3-🧠-overview)
-- [Tech Stack](#4-⚙️-tech-stack)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Usage](#usage) <!-- - [Sample Output](#sample-output) -->
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
+## 2. Table of Contents
+- [Overview](#3-overview)
+- [Tech Stack](#4-tech-stack)
+- [Project Structure](#5-project-structure)
+- [How It Works](#6-how-it-works)
+- [Installation](#7-installation)
+- [Usage](#8-usage)
+- [Future Enhancements](#9-future-enhancements)
+- [Author](#10-author)
 
 
 
