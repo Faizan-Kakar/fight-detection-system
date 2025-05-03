@@ -2,8 +2,8 @@
 An AI-powered surveillance system that detects and alerts incidents of physical violence in real-time using computer vision and deep learning.
 
 ## 2. 📑 Table of Contents
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
+- [Overview](#3-🧠-overview)
+- [Tech Stack](#4-⚙️-tech-stack)
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
